@@ -1,3 +1,9 @@
+WAKE-UP-RING
+  
+![attendance](https://user-images.githubusercontent.com/60978907/144264682-4990439e-10f6-497c-a92f-81e0a516c92f.jpg)
+
+This is a fingerprint based attendance recording system which is used to record your attendance in a smoother manner.
+
 REQUIREMENTS
 
   * The product is actually a fingerprint based attendance recorder system.
