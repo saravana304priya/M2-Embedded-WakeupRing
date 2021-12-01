@@ -74,3 +74,4 @@ SWOT ANALYSIS
 
 ![n](https://user-images.githubusercontent.com/60978907/144264150-85d802df-bbaf-47df-84bc-91beb2106565.jpg)
 
+HIGH LEVEL REQUIREMENTS
