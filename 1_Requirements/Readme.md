@@ -5,3 +5,6 @@ REQUIREMENTS
   * Your attendance will also be marked.
   * Avoid maunal recording
   * Avoid mistakes
+
+The list of components required are:
+   
