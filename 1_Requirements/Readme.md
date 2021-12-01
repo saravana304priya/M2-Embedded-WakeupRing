@@ -28,6 +28,7 @@ STATE OF ART/ RESEARCH
    * And checking with the required ID to match.
   
 4W and 1H 
+
 WHERE
   * Time attendance system
   * door locks
@@ -65,4 +66,5 @@ WHY
  
 SWOT ANALYSIS
 
+![n](https://user-images.githubusercontent.com/60978907/144264150-85d802df-bbaf-47df-84bc-91beb2106565.jpg)
 
