@@ -10,3 +10,11 @@ The list of components required are:
 
 ![j](https://user-images.githubusercontent.com/60978907/144191786-0429001b-0d72-4a86-a124-68505adfd5d8.jpg)
 
+FEATURES
+ 
+ * Large number of stored fingerprints
+ * Durability and ruggedness
+ * 360 degree verification angle
+ * access control
+ * fingerprint identification time
+ 
