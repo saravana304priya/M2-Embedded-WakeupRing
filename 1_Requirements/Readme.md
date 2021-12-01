@@ -22,5 +22,5 @@ STATE OF ART/ RESEARCH
   
    ![j (1)](https://user-images.githubusercontent.com/60978907/144207060-60d17e4a-5be0-4840-9f11-12c4d2f3a9ab.jpg)     In 19s there was only manual entry in papers.
   
-   ![j (2)](https://user-images.githubusercontent.com/60978907/144232464-015d50d3-363a-49c9-be08-55742029b6d5.jpg)     In 2000s, there make entry of system.
+   ![j (2)](https://user-images.githubusercontent.com/60978907/144232464-015d50d3-363a-49c9-be08-55742029b6d5.jpg)     In 2000s, they started entering data in machines.
 
