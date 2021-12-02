@@ -14,7 +14,9 @@
 ### BILL OF MATERIALS:
 
  1.Atmega32 -1
+ 
  2.Fingerprint module (r305) -1
+ 
  3.Push Button or membrane buttons   - 4
  4.LEDs -2
  5.1K Resistor -2
