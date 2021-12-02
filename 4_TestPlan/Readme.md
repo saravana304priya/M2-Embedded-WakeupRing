@@ -1,1 +1,1 @@
-
+In present time we can see fingerprint-based systems everywhere in our daily life like for attendance in offices, employee verification in banks, for cash withdrawal or deposits in ATMs, for identity verification in government offices etc.
